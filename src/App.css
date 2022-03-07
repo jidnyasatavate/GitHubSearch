@@ -1,0 +1,74 @@
+.outer-container {
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-color: #484e54;
+  /* height: 100vh; */
+  min-height: 100vh;
+}
+.box-container {
+  margin-left: auto;
+  margin-right: auto;
+  /* width: fit-content */
+  width: 55%;
+}
+.logo {
+  height: 96px;
+  width: 90px;
+  margin-left: 25%;
+}
+.githubTitle {
+  color: rgb(121, 216, 240);
+}
+.subtitle {
+  font-size: 10px;
+  color: white;
+}
+.searchsection {
+  margin-top: 4%;
+}
+.searchBtn {
+  background-color: rgb(121, 216, 240);
+  border: none;
+  border-radius: 5px;
+  text-align: center;
+  color: white;
+}
+.iptext {
+  background-color: black !important;
+  color: white !important;
+}
+.user-data-container {
+  width: 90%;
+  margin-top: 10px;
+}
+.text1 {
+  text-align: right;
+  color: white;
+  font-size: 20px;
+}
+.text2 {
+  color: rgb(121, 216, 240);
+  font-size: 20px;
+  font-weight: 300;
+}
+.text3 {
+  text-align: center;
+  color: white;
+  margin-top: 20px;
+}
+.repotable {
+  border: 1px solid white;
+  border-collapse: collapse;
+  width: 100%;
+}
+.text4 {
+  color: white;
+  padding-left: 15px;
+}
+.borderbox {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+.arrow-icon {
+  cursor: pointer;
+}
